@@ -8,4 +8,7 @@ List of packages requied to be installed to run this script:
 	requests
 	math
 	PySimpleGUI
-  os
+  	os
+	dotenv
+
+A .env file is also needed for the API key, for example: OPENWEATHER_API_KEY=your_actual_api_key_here
